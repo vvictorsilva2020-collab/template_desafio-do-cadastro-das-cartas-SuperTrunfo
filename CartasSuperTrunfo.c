@@ -6,9 +6,11 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
-
+int saopaulo, rio
   // Área para entrada de dados
-
+printf("digite a populacao de saopaulo: \n");
+  scanf( %d, &saopaulo);
+  printf ("a populaçao de saopaulo é: %d", saopaulo);
   // Área para exibição dos dados da cidade
 
 return 0;
